@@ -1,0 +1,20 @@
+{
+    "enter_pin": "Enter PIN",
+    "enter_your_pin": "Please enter your PIN",
+    "incorrect_pin": "Incorrect PIN. Please try again.",
+    "vendor_type_selection": "Select Vendor Type",
+    "fruits": "Fruits",
+    "vegetables": "Vegetables",
+    "novelties": "Novelties",
+    "dashboard": "Dashboard",
+    "current_weather": "Current Weather",
+    "temperature": "Temperature",
+    "description": "Description",
+    "vegetable_prices": "Vegetable Prices",
+    "enable_location": "Please enable location to get accurate data.",
+    "sunny": "Sunny",
+    "cloudy": "Cloudy",
+    "rainy": "Rainy",
+    "degree_celsius": "Degree Celsius"
+  }
+  

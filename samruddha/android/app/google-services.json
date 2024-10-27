@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863887158249",
+    "project_id": "samruddha-65acc",
+    "storage_bucket": "samruddha-65acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863887158249:android:ad67545e59c623dc523978",
+        "android_client_info": {
+          "package_name": "com.mysore.samruddha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhjobl34pRolrqkYwLkSEFXx0sV3QPw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
